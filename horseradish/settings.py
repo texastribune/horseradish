@@ -15,7 +15,7 @@ import dj_database_url
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 ADMINS = (
-    ('Jeremy', 'jcarbaugh@sunlightfoundation.com'),
+    ('Tech', 'tech@texastribune.org'),
 )
 MANAGERS = ADMINS
 
